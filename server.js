@@ -7,6 +7,7 @@ var app = require('express')()
 //    , img1 = "data/pushpa.jpg"
 //    , img2 = "data/panda.jpg"
     ;
+console.log('server done');
 
 //ibmdb.debug(true);
 //pool.init(5, cn);
