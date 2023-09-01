@@ -1,3 +1,4 @@
+var app = require('express')()
 //var ibmdb = require("ibm_db")
 //    , pool = new ibmdb.Pool()
 //    , app = require('express')()
@@ -5,7 +6,7 @@
 //    , requestNo = 0
 //    , img1 = "data/pushpa.jpg"
 //    , img2 = "data/panda.jpg"
-//    ;
+    ;
 
 //ibmdb.debug(true);
 //pool.init(5, cn);
